@@ -8,3 +8,5 @@ def fibonacci(n):
 for num in fibonacci(10):
     print(num)
 #输出结果:
+
+a+b=c
